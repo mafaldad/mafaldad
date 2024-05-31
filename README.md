@@ -1,3 +1,3 @@
 
-![Orange Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/mafaldad/mafaldad/assets/148830248/aa939e7c-4701-4f11-adf1-592eb3002d12)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-ramirezcaro)
+
+![github-header-image (2)](https://github.com/mafaldad/mafaldad/assets/148830248/76b88683-2e76-4715-b08a-5e5adaff10a5)
