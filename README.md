@@ -4,6 +4,7 @@
 
 
 About Me 🎉
+
 👋 Hi, I'm Bianca Ramirez Caro, an enthusiastic educator transitioning into data analysis and machine learning. My journey from teaching to data analysis is fueled by a passion for uncovering data-driven insights and making impactful decisions.
 
 📚 Currently Learning
