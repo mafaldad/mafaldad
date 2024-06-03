@@ -20,4 +20,4 @@ I am excited to apply my data analysis knowledge and continue advancing my profe
 
 
 
-[![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafaldad)](https://github.com/mafaldad/github-readme-stats)
+[![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafaldad)](https://github.com/mafaldad/github-readme-stats&show_icons=true)
