@@ -9,13 +9,13 @@
 
 🌱  I'm currently on the last stretch of my Tripleten Data Analysis BootCamp, and I'm eager to start this new path
 
-📚 Currently Learning
-Exploratory Data Analysis with Pandas 🐼 / Data Visualization Techniques 📊
+📚 Currently Learning: Exploratory Data Analysis with Pandas 🐼 / Data Visualization Techniques 📊
 
-🚀 Future Goals
-I am excited to apply my data analysis knowledge and continue advancing my professional growth with innovative projects. I am passionate about leveraging data to drive business solutions and exploring the frontiers of machine learning.
+🚀 Future Goals: I am excited to apply my data analysis knowledge and continue advancing my professional growth with innovative projects. I am passionate about leveraging data to drive business solutions and exploring the frontiers of machine learning.
 
-### Contact me: ###
+💓 I really enjoy learning about the intricate relationship between data analysis and educational policy.
+
+📫 How to reach me:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-ramirezcaro/)
   
