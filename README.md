@@ -19,7 +19,7 @@ I am excited to apply my data analysis knowledge and continue advancing my profe
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bianca&theme=calm&hide_border=true" alt="Bianca's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca&theme=calm&show_icons=true&hide_border=true&layout=compact" alt="Bianca's GitHub Stats" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mafaldad&theme=calm&hide_border=true" alt="Biancas's GitHub Stats" />
+  
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mafaldad&theme=calm&hide_border=true" alt="Biancas's GitHub Stats" />
